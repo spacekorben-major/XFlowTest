@@ -1,5 +1,5 @@
 ﻿using Components;
-using Components.UnityDependentComponents;
+using Components.UnityDependent;
 using Leopotam.EcsLite;
 using UnityEngine;
 using Zenject;

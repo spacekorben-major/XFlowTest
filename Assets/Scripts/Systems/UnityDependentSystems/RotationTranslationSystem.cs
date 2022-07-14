@@ -1,6 +1,6 @@
 ﻿using System.Numerics;
 using Components;
-using Components.UnityDependentComponents;
+using Components.UnityDependent;
 using Leopotam.EcsLite;
 using Zenject;
 using Quaternion = UnityEngine.Quaternion;

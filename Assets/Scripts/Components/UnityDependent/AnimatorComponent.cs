@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Components.UnityDependentComponents
+namespace Components.UnityDependent
 {
     public struct AnimatorComponent
     {

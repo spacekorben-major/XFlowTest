@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Components.UnityDependentComponents
+namespace Components.UnityDependent
 {
     /// <summary>
     ///     This component holds the link to a transform.
