@@ -21,9 +21,9 @@
 
 Список систем которые не зависят от Unity:
 
-DoorActivationSystem
-DoorControlSystem
-MovementSystem
-ProximitySystem
-RotationSystem
-TimeMeasurementSystem
+- DoorActivationSystem
+- DoorControlSystem
+- MovementSystem
+- ProximitySystem
+- RotationSystem
+- TimeMeasurementSystem
